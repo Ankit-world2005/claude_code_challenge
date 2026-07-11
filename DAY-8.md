@@ -1,3 +1,4 @@
+<img width="1916" height="967" alt="Screenshot 2026-07-11 120110" src="https://github.com/user-attachments/assets/4c623f0c-0b59-4afe-8d23-19e1ba0a0fb5" />
 INPUT-
 
 Act as a Senior Data Analyst, Environmental Researcher, UX Designer, and Frontend Dashboard Developer.
